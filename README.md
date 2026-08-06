@@ -22,10 +22,7 @@ A curated collection of small-to-medium scale Natural Language Processing (NLP) 
 
 4. Run a demo notebook or script from `notebooks/` or `scripts/`.
 
-## Usage
-- Use notebooks for exploratory work and quick prototyping.
-- Use scripts and the `models/` folder for reproducible experiments and training runs.
-- Follow README files inside subfolders for dataset-specific instructions.
+
 
 ## Contributing
 - Open an issue to discuss major changes or new additions.
