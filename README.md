@@ -3,11 +3,7 @@
 
 A curated collection of small-to-medium scale Natural Language Processing (NLP) experiments, utilities, and reference implementations. This repository is intended for developers, researchers, and students who want concise, practical examples to learn from and extend.
 
-## Contents
-- `data/` — datasets and preprocessing scripts (if present)
-- `notebooks/` — exploratory analyses and demonstrations
-- `models/` — model definitions and training/evaluation scripts
-- `scripts/` — reusable CLI utilities and helpers
+
 
 ## Quick Start
 1. Clone the repository:
