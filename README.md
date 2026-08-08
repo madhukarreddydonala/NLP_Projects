@@ -1,7 +1,7 @@
 ﻿
 # NLP Projects Repo
 
-A curated collection of small-to-medium scale Natural Language Processing (NLP) experiments, utilities, and reference implementations. This repository is intended for developers, researchers, and students who want concise, practical examples to learn from and extend.
+A curated collection of small-to-medium scale Natural Language Processing (NLP) experiments, utilities, and reference implementations. This repository is intended for developers, researchers, and students who want concise, practical examples to learn from and extends.
 
 
 
