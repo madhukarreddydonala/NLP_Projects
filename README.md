@@ -1,53 +1,29 @@
-# NLP Practice Repository
+﻿# NLP Practice Repository
 
-Welcome to this open-source NLP practice repository. It contains hands-on experiments in text preprocessing, feature extraction, and SMS spam classification using Python and common NLP libraries.
+A concise NLP project for SMS spam classification and text preprocessing.
 
-## 🔍 About This Project
+## What’s included
 
-This repository is designed for learners and contributors who want to practice natural language processing concepts, including:
+- `spamclassifier/SMSSpamCollection.txt` — SMS spam dataset
+- `preprocessing.ipynb` — NLP preprocessing notebook
+- `spamclassifier/textpreprocessing.ipynb` — SMS spam classifier notebook
+- text cleaning, vectorization, and binary classification examples
 
-- text cleaning and normalization
-- tokenization and stopword removal
-- feature extraction using Bag-of-Words and TF-IDF
-- model training and evaluation for classification
-- working with real SMS spam data
-
-## 📂 Repository Structure
-
-- `preprocessing.ipynb` — Notebook for general NLP preprocessing experiments and demonstrations.
-- `spamclassifier/`
-  - `SMSSpamCollection.txt` — SMS Spam Collection dataset used for spam detection.
-  - `textpreprocessing.ipynb` — Notebook for processing SMS text, feature engineering, and building a spam classifier.
-
-## 📌 Key Features
-
-- Exploratory data analysis for text data
-- Text normalization and cleaning pipeline
-- Word vectorization and feature representation
-- Binary classification for spam detection
-- Clear notebook-based workflow for learning and extension
-
-## 📥 Getting Started
+## Quick start
 
 1. Clone the repository.
-2. Open the project in VS Code.
+2. Open it in VS Code.
 3. Launch Jupyter Notebook or JupyterLab.
-4. Run the notebooks in order:
+4. Run:
    - `preprocessing.ipynb`
    - `spamclassifier/textpreprocessing.ipynb`
 
-## 🛠️ Recommended Environment
+## Requirements
 
-Use Python 3.8+ and install the following libraries:
+- Python 3.8+
+- `numpy`, `pandas`, `scikit-learn`, `nltk`, `matplotlib`, `seaborn`
 
-- `numpy`
-- `pandas`
-- `scikit-learn`
-- `nltk`
-- `matplotlib`
-- `seaborn`
-
-Example setup:
+Install example:
 
 ```bash
 python -m venv venv
@@ -55,44 +31,13 @@ venv\Scripts\activate
 pip install numpy pandas scikit-learn nltk matplotlib seaborn
 ```
 
-## 🧪 Dataset
+## Portfolio
 
-The dataset is located at `spamclassifier/SMSSpamCollection.txt`. It contains labeled SMS messages in the format:
+- GitHub profile: `https://github.com/your-username`
+- Projects: `https://github.com/your-username?tab=repositories`
 
-- `ham` — non-spam message
-- `spam` — spam message
+> Replace `your-username` with your GitHub username.
 
-Each line includes the label followed by the message content.
+## Notes
 
-## 🌱 Contribution Guidelines
-
-This project is open-source and contributions are welcome.
-
-If you want to help:
-
-- submit bug fixes or improvements
-- add new preprocessing techniques
-- include additional model comparisons
-- improve notebook explanations and visualizations
-
-## 📫 Contact and Contribution
-
-If you want to contribute or have questions, feel free to reach out:
-
-- Email: `your-email@example.com`
-- GitHub: `https://github.com/your-username`
-
-If you prefer, replace the placeholders above with your own contact information.
-
-## 🚀 Next Improvements
-
-Potential extensions for this repository:
-
-- add model performance metrics and plots
-- compare classifiers such as Naive Bayes, Logistic Regression, and SVM
-- implement lemmatization and n-grams
-- create a packaged script or web demo
-
----
-
-Thank you for visiting this NLP practice repository. Contributions and collaboration are highly encouraged!
+This repo demonstrates NLP preprocessing and SMS spam detection using labeled `ham` and `spam` messages.
