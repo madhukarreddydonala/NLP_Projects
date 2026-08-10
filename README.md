@@ -20,7 +20,7 @@ A curated collection of small-to-medium scale Natural Language Processing (NLP) 
 
 	pip install -r requirements.txt
 
-4. Run a demo notebook or script from `notebooks/` 
+
 
 
 
