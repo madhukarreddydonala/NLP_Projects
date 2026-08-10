@@ -24,10 +24,6 @@ A curated collection of small-to-medium scale Natural Language Processing (NLP) 
 
 
 
-## Contributing
-- Open an issue to discuss major changes or new additions.
-- Send a pull request with a clear description and small, focused changes.
-- Add tests or example notebooks demonstrating new functionality.
 
 ## License
 
