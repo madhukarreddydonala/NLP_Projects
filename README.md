@@ -22,9 +22,6 @@ A curated collection of small-to-medium scale Natural Language Processing (NLP) 
 
 
 
-
-
-
 ## License
 
 This repository does not include a license file. If you want to reuse code from this repo, please add a `LICENSE` or contact the maintainer to clarify permissions.
