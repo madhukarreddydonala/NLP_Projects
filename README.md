@@ -25,7 +25,7 @@ A curated collection of small-to-medium Natural Language Processing (NLP) experi
 
 	pip install -r requirements.txt
 
-4. Explore a notebook or example in the `examples/` or `notebooks/` folder.
+4. Explore a notebook or example in the folder.
 
 ## Project Structure
 
